@@ -1,0 +1,55 @@
+{
+  "version": "2.5.0",
+  "msg": "لطفاً بروزرسانی کنید تا کار کند",
+  "dw_url": "alphanone",
+  "streams": [
+    {
+      "name": "mbc1",
+      "stream": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+    },
+    {
+      "name": "mbc2",
+      "stream": "http://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8"
+    },
+    {
+      "name": "mbc3",
+      "stream": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
+    },
+    {
+      "name": "mbcaction",
+      "stream": "http://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8"
+    },
+    {
+      "name": "natgeo",
+      "stream": "http://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+    },
+    {
+      "name": "spacetoon",
+      "stream": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
+    },
+    {
+      "name": "alarabia",
+      "stream": "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
+    },
+    {
+      "name": "ssc1",
+      "stream": "http://af.ayassport.ir/hls2/ssc1.m3u8"
+    },
+    {
+      "name": "bein1",
+      "stream": "http://af.ayassport.ir/hls2/bein1.m3u8"
+    },
+    {
+      "name": "bein2",
+      "stream": "http://af.ayassport.ir/hls2/bein2.m3u8"
+    },
+    {
+      "name": "tv3",
+      "stream": "http://af.ayassport.ir/hls2/tv3test.m3u8"
+    },
+    {
+      "name": "varzesh",
+      "stream": "https://af.ayassport.ir/hls2/varzeshtest.m3u8"
+    }
+  ]
+}
